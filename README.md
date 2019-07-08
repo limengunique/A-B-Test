@@ -5,7 +5,7 @@
 ## Backgruod
 
 |        | Group Size           | Variation  |
-| ------------- |:-------------:| :-----:|
+| :-------------: |:-------------:| :-----:|
 | Test Group      | 215774 | Display website-translation created by local  |
 | Control Group      | 185311      |   Display website-translation created by Spaniard |
 
