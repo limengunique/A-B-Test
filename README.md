@@ -8,8 +8,7 @@ This is a A/B test runs on a global e-commerce website. The DS team finds that S
 To test it, a A/B test was run on 400,000 users in Spain-speaking countries, where ~200,000 users in test and control group. 
 <br>
 The experiment was conducted from 11/30-12/04
-|   group type| Second Header |
-| ------------- | ------------- |
-| test group  | display website-translation created by local  |
-| control group  | display website-translation created by Spaniard |
+|                Test Group               |              Control Group              | 
+| --------------------------------------- |----------------------------------------:| 
+| website-translation created by local    | website-translation created by Spaniard | 
 
