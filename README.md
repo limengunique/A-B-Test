@@ -1,1 +1,15 @@
 # AB-Test
+## Goal
+- Confirm the test result is negative
+- Find out what causes the unresonable test result
+## Backgruod
+This is a A/B test runs on a global e-commerce website. The DS team finds that Spain-based users have a much higher conversion rate than any other Spanish-speaking countries. Given that the translation is the same for all Spain-speaking countries written by Spaniard, here comes the hypothesis that display website translation written by local people might improve conversion rate of other Spain_speaking countries other than Spain.
+<br>
+To test it, a A/B test was run on 400,000 users in Spain-speaking countries, where ~200,000 users in test and control group. 
+<br>
+The experiment was conducted from 11/30-12/04
+|   group type| Second Header |
+| ------------- | ------------- |
+| test group  | display website-translation created by local  |
+| control group  | display website-translation created by Spaniard |
+
