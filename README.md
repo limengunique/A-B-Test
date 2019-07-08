@@ -2,7 +2,7 @@
 ## Goal
 - Confirm the test result is negative
 - Find out what causes the unresonable test result
-## Backgruod
+## Background
 
 |        | Group Size           | Variation  |
 | :-------------: |:-------------:| :-----:|
